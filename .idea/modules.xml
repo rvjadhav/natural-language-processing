@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lesk/lesk.iml" filepath="$PROJECT_DIR$/lesk/lesk.iml" />
       <module fileurl="file://$PROJECT_DIR$/natural-language-processing.iml" filepath="$PROJECT_DIR$/natural-language-processing.iml" />
       <module fileurl="file://$PROJECT_DIR$/word-predictor/word-predictor.iml" filepath="$PROJECT_DIR$/word-predictor/word-predictor.iml" />
     </modules>
